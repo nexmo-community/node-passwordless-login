@@ -7,7 +7,7 @@ Follow these steps to get your own version of this up and running:
 
 ```bash
 git clone https://github.com/nexmo-community/node-passwordless-login.git
-$ cd node-passwordless-login && npm install
+cd node-passwordless-login && npm install
 ```
 
 ## Configuring the application
